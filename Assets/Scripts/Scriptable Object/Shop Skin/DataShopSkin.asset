@@ -1,0 +1,773 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89dca41047d9bd74facfb715ce10d8b9, type: 3}
+  m_Name: DataShopSkin
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: listDataShopHats
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[DataShop, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 9
+    - Name: 
+      Entry: 7
+      Data: 1|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 0
+    - Name: typeUnlock
+      Entry: 3
+      Data: 3
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 0
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 0
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 1
+    - Name: typeUnlock
+      Entry: 3
+      Data: 2
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 0
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 0
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 2
+    - Name: typeUnlock
+      Entry: 3
+      Data: 2
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 0
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 0
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 3
+    - Name: typeUnlock
+      Entry: 3
+      Data: 2
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 5
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 0
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 4
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 1
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 800
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 5
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 3
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 1800
+    - Name: levelUnlock
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 6
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 3
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 1800
+    - Name: levelUnlock
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 7
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 5
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 3000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 9|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 8
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 5
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 3000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: listDataShopSkins
+      Entry: 7
+      Data: 10|System.Collections.Generic.List`1[[DataShop, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 20
+    - Name: 
+      Entry: 7
+      Data: 11|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 1
+    - Name: typeUnlock
+      Entry: 3
+      Data: 3
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 0
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 0
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 12|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 2
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 1
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 1000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 13|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 3
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 1
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 1000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 14|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 4
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 1
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 1000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 15|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 5
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 1
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 1000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 16|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 6
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 1
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 1000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 17|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 7
+    - Name: typeUnlock
+      Entry: 3
+      Data: 2
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 0
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 0
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 18|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 8
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 1
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 1000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 19|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 9
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 1
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 1000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 20|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 10
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 1
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 1000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 21|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 11
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 1
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 1000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 22|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 12
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 3
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 1800
+    - Name: levelUnlock
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 23|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 13
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 10
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 6000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 24|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 14
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 5
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 3000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 25|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 15
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 8
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 4800
+    - Name: levelUnlock
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 26|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 16
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 5
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 3000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 27|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 17
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 8
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 4800
+    - Name: levelUnlock
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 28|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 18
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 15
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 9000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 29|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 19
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 20
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 12000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 30|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 20
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 20
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 12000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: listDataShopPets
+      Entry: 7
+      Data: 31|System.Collections.Generic.List`1[[DataShop, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 32|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 0
+    - Name: typeUnlock
+      Entry: 3
+      Data: 3
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 0
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 0
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 33|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 1
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 6
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 3600
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 34|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 2
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 8
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 4800
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 35|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 4
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 15
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 9000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 36|DataShop, Assembly-CSharp
+    - Name: idSkin
+      Entry: 3
+      Data: 5
+    - Name: typeUnlock
+      Entry: 3
+      Data: 12
+    - Name: numberVideoUnlock
+      Entry: 3
+      Data: 10
+    - Name: numberCoinUnlock
+      Entry: 3
+      Data: 6000
+    - Name: levelUnlock
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

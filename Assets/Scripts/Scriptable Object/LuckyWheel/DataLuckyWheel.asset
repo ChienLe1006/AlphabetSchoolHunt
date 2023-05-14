@@ -1,0 +1,248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f868131b72bef4478bc312e7cb9d823, type: 3}
+  m_Name: DataLuckyWheel
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: ListDataRewrds
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[DataRewardLuckyWheel, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 8
+    - Name: 
+      Entry: 7
+      Data: 1|DataRewardLuckyWheel, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 0
+    - Name: IdType
+      Entry: 3
+      Data: 0
+    - Name: Amount
+      Entry: 3
+      Data: 200
+    - Name: NumberCoinReplace
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|DataRewardLuckyWheel, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 1
+    - Name: IdType
+      Entry: 3
+      Data: 2
+    - Name: Amount
+      Entry: 3
+      Data: 1
+    - Name: NumberCoinReplace
+      Entry: 3
+      Data: 600
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|DataRewardLuckyWheel, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 0
+    - Name: IdType
+      Entry: 3
+      Data: 0
+    - Name: Amount
+      Entry: 3
+      Data: 400
+    - Name: NumberCoinReplace
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|DataRewardLuckyWheel, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 0
+    - Name: IdType
+      Entry: 3
+      Data: 0
+    - Name: Amount
+      Entry: 3
+      Data: 600
+    - Name: NumberCoinReplace
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|DataRewardLuckyWheel, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 0
+    - Name: IdType
+      Entry: 3
+      Data: 0
+    - Name: Amount
+      Entry: 3
+      Data: 600
+    - Name: NumberCoinReplace
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|DataRewardLuckyWheel, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 1
+    - Name: IdType
+      Entry: 3
+      Data: 15
+    - Name: Amount
+      Entry: 3
+      Data: 1
+    - Name: NumberCoinReplace
+      Entry: 3
+      Data: 600
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|DataRewardLuckyWheel, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 0
+    - Name: IdType
+      Entry: 3
+      Data: 0
+    - Name: Amount
+      Entry: 3
+      Data: 1200
+    - Name: NumberCoinReplace
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|DataRewardLuckyWheel, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 0
+    - Name: IdType
+      Entry: 3
+      Data: 0
+    - Name: Amount
+      Entry: 3
+      Data: 2000
+    - Name: NumberCoinReplace
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: ListDataReceiveFrees
+      Entry: 7
+      Data: 9|System.Collections.Generic.List`1[[RewardEndGame, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: RewardEndGame, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 3
+    - Name: Id
+      Entry: 3
+      Data: 7
+    - Name: NumberWin
+      Entry: 3
+      Data: 3
+    - Name: NumberCoinReplace
+      Entry: 3
+      Data: 500
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: RewardEndGame, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 3
+    - Name: Id
+      Entry: 3
+      Data: 10
+    - Name: NumberWin
+      Entry: 3
+      Data: 8
+    - Name: NumberCoinReplace
+      Entry: 3
+      Data: 500
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: RewardEndGame, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 3
+    - Name: Id
+      Entry: 3
+      Data: 12
+    - Name: NumberWin
+      Entry: 3
+      Data: 20
+    - Name: NumberCoinReplace
+      Entry: 3
+      Data: 500
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  NumberSpinDaily: 5

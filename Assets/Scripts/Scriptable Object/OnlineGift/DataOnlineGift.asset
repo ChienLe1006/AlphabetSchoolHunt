@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aba3a2a401013a8449f93b258d6290cf, type: 3}
+  m_Name: DataOnlineGift
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 21300000, guid: a791a29b44f3bdf4d9a66893e0385341, type: 3}
+    - {fileID: 21300000, guid: 5d07749d409197f4e9863b42fde12aea, type: 3}
+    - {fileID: 21300000, guid: b497efc2ccfcb3d47b0adb1fce4cbe1d, type: 3}
+    - {fileID: 21300000, guid: 3d327dd995fe6574388a992e955e5d17, type: 3}
+    - {fileID: 21300000, guid: 1f81fe7ffb728e746853797c2fc81a04, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: rewardOnlineDatas
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[RewardOnline, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 1|RewardOnline, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 0
+    - Name: Amount
+      Entry: 3
+      Data: 200
+    - Name: sprite
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|RewardOnline, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 0
+    - Name: Amount
+      Entry: 3
+      Data: 300
+    - Name: sprite
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|RewardOnline, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 0
+    - Name: Amount
+      Entry: 3
+      Data: 400
+    - Name: sprite
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|RewardOnline, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 0
+    - Name: Amount
+      Entry: 3
+      Data: 500
+    - Name: sprite
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|RewardOnline, Assembly-CSharp
+    - Name: Type
+      Entry: 3
+      Data: 0
+    - Name: Amount
+      Entry: 3
+      Data: 1000
+    - Name: sprite
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

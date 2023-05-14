@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "205490800641",
+    "project_id": "b---publishing",
+    "storage_bucket": "b---publishing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205490800641:android:b1b875257651104c091800",
+        "android_client_info": {
+          "package_name": "com.alphabet.school.tycoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205490800641-pqie45ano3rr8nme8gi6g8rl7ala1jvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa2ye9H559NhI2Qm6htgkdlIjM6sP9rQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205490800641-pqie45ano3rr8nme8gi6g8rl7ala1jvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205490800641:android:bdacf5e4db41fb8d091800",
+        "android_client_info": {
+          "package_name": "com.gangster.westside.letter.shooter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205490800641-pqie45ano3rr8nme8gi6g8rl7ala1jvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa2ye9H559NhI2Qm6htgkdlIjM6sP9rQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205490800641-pqie45ano3rr8nme8gi6g8rl7ala1jvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

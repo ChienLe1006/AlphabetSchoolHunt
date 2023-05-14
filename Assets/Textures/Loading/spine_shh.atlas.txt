@@ -1,0 +1,41 @@
+
+spine_shh.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 72
+  rotate: false
+  xy: 2, 23
+  size: 516, 516
+  orig: 516, 516
+  offset: 0, 0
+  index: -1
+Group 74
+  rotate: false
+  xy: 520, 140
+  size: 304, 399
+  orig: 304, 399
+  offset: 0, 0
+  index: -1
+h
+  rotate: false
+  xy: 520, 74
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+i
+  rotate: false
+  xy: 578, 2
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 520, 6
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
